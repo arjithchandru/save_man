@@ -1,0 +1,2 @@
+Readme
+save man is similar game like hangman and guess the game ,developed using python.
